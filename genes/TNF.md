@@ -1,0 +1,28 @@
+# Nombre del gen
+
+## 1. Información general
+- Símbolo del gen:
+- Nombre completo:
+- Función biológica:
+
+## 2. Importancia biomédica
+Describir brevemente la relación del gen con procesos biológicos o enfermedades.
+
+## 3. Variantes genéticas seleccionadas
+Se seleccionaron cinco variantes documentadas en ClinVar.
+
+| Variante (HGVS) | ClinVar ID | Clasificación clínica |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+## 4. Observaciones
+Describir brevemente las características de las variantes seleccionadas, sin asumir que todas son causantes de enfermedad.
+
+## 5. Referencias
+- NCBI ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/
+- Otras fuentes consultadas:
+- Fecha de consulta:
