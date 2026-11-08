@@ -11,18 +11,28 @@ TNF está implicado en diversas enfermedades, especialmente aquellas relacionada
 ## 3. Variantes genéticas seleccionadas
 Se seleccionaron cinco variantes documentadas en ClinVar.
 
+
 | Variante (HGVS) | ClinVar ID | Clasificación clínica |
 |---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| NM_000594.4(TNF):c.350T>C | 2480132 | Uncertain significance |
+| NM_000594.4(TNF):c.196G>A | 4597304 | Uncertain significance |
+| NM_000594.4(TNF):c.87G>T | 784495 | Benign |
+| NM_000594.4(TNF):c.251C>T | 781865 | Benign/Likely benign |
+| NM_000594.4(TNF):c.17T>A | 1697317 | Uncertain significance |
+
 
 ## 4. Observaciones
-Describir brevemente las características de las variantes seleccionadas, sin asumir que todas son causantes de enfermedad.
+Las cinco variantes seleccionadas del gen TNF presentan diferentes clasificaciones clínicas según ClinVar. Tres están clasificadas como de significado incierto (Uncertain significance), una como benigna (Benign) y otra como benigna/probablemente benigna (Benign/Likely benign).
+
+La mayoría presenta un estado de revisión de una estrella, mientras que una variante cuenta con dos estrellas. Estos resultados reflejan distintos niveles de evidencia y revisión. La presencia de una variante en ClinVar no implica necesariamente que sea causante de una enfermedad.
 
 ## 5. Referencias
+- NCBI Gene (TNF): https://www.ncbi.nlm.nih.gov/gene/7124
 - NCBI ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/
-- Otras fuentes consultadas:
-- Fecha de consulta:
+- ClinVar, variantes seleccionadas:
+  - https://www.ncbi.nlm.nih.gov/clinvar/variation/2480132/
+  - https://www.ncbi.nlm.nih.gov/clinvar/variation/4597304/
+  - https://www.ncbi.nlm.nih.gov/clinvar/variation/784495/
+  - https://www.ncbi.nlm.nih.gov/clinvar/variation/781865/
+  - https://www.ncbi.nlm.nih.gov/clinvar/variation/1697317/
+- Fecha de consulta: 08/11/2026
