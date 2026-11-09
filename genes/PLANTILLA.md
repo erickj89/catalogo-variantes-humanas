@@ -11,13 +11,13 @@ Describir brevemente la relación del gen con procesos biológicos o enfermedade
 ## 3. Variantes genéticas seleccionadas
 Se seleccionaron cinco variantes documentadas en ClinVar.
 
-| Variante (HGVS) | ClinVar ID | Clasificación clínica |
-|---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| Variante (HGVS) | ClinVar ID | Clasificación clínica | Tipo de clasificación |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 
 ## 4. Observaciones
 Describir brevemente las características de las variantes seleccionadas, sin asumir que todas son causantes de enfermedad.
