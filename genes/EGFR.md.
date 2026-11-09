@@ -1,0 +1,19 @@
+# Gen EGFR
+
+## Descripción y relevancia biomédica
+El gen EGFR codifica para el receptor del factor de crecimiento epidérmico. Su función está implicada en la señalización y el crecimiento celular.
+
+## Tabla de variantes
+| Identificador ClinVar | Variante (HGVS) | Clasificación clínica | Condición asociada |
+| :--- | :--- | :--- | :--- |
+| 5035826 | NM_005228.5(EGFR):c.-2C>T | Uncertain significance | Hereditary cancer-predisposing syndrome |
+| 3649660 | NM_005228.5(EGFR):c.5G>T (p.Arg2Leu) | Uncertain significance | EGFR-related lung cancer |
+| 3625426 | NM_005228.5(EGFR):c.5G>C (p.Arg2Pro) | Uncertain significance | EGFR-related lung cancer |
+| 1352648 | NM_005228.5(EGFR):c.7C>T (p.Pro3Ser) | Uncertain significance | EGFR-related lung cancer |
+| 1024328 | NM_005228.5(EGFR):c.7C>G (p.Pro3Ala) | Uncertain significance | EGFR-related lung cancer |
+
+## Comentario descriptivo
+Todas las variantes seleccionadas presentan una clasificación clínica de significado incierto. La mayoría de ellas están asociadas a cáncer de pulmón relacionado con alteraciones en el gen EGFR, a excepción de una variante relacionada con un síndrome de predisposición hereditaria al cáncer.
+
+## Referencias
+- [ClinVar - NCBI](https://www.ncbi.nlm.nih.gov/clinvar/)
