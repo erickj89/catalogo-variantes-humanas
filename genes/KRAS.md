@@ -17,9 +17,13 @@ Se seleccionaron cinco variantes documentadas en ClinVar.
 
 | Variante (HGVS) | ClinVar ID | Clasificación clínica | Tipo de clasificación |
 | NM_004985.5(KRAS):c.34G>T (p.Gly12Cys) | [12578](https://www.ncbi.nlm.nih.gov/clinvar/variation/12578/) | Likely pathogenic | Germinal |
+
 | NM_004985.5(KRAS):c.34G>A (p.Gly12Ser) | [12584](https://www.ncbi.nlm.nih.gov/clinvar/variation/12584/) | Pathogenic | Germinal |
+
 | NM_004985.5(KRAS):c.35G>A (p.Gly12Asp) | [12582](https://www.ncbi.nlm.nih.gov/clinvar/variation/12582/) | Pathogenic/Likely pathogenic | Germinal |
+
 | NM_004985.5(KRAS):c.35G>T (p.Gly12Val) | [12583](https://www.ncbi.nlm.nih.gov/clinvar/variation/12583/) | Pathogenic | Germinal |
+
 | NM_004985.5(KRAS):c.519T>C (p.Asp173=) | [41449](https://www.ncbi.nlm.nih.gov/clinvar/variation/41449/) | Benign | Germinal |
 
 ## 4. Observaciones
