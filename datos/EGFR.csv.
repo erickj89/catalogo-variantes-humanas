@@ -1,1 +1,6 @@
-gen, identificador ClinVar, variante en nomenclatura HGVS, clasificación clínica, condición asociada, estado de revisión, enlace a la fuente, fecha de consulta.
+# Gen, identificador ClinVar, variante en nomenclatura HGVS, clasificación clínica, condición asociada, estado de revisión, enlace a la fuente, fecha de consulta.
+EGFR, 5035826, NM_005228.5(EGFR):c.-2C>T, Uncertain significance, Hereditary cancer-predisposing syndrome, Criteria provided single submitter, https://www.ncbi.nlm.nih.gov/clinvar/variation/5035826/, 09/11/2026
+EGFR, 3649660, NM_005228.5(EGFR):c.5G>T (p.Arg2Leu), Uncertain significance, EGFR-related lung cancer, Criteria provided single submitter, https://www.ncbi.nlm.nih.gov/clinvar/variation/3649660/, 09/11/2026
+EGFR, 3625426, NM_005228.5(EGFR):c.5G>C (p.Arg2Pro), Uncertain significance, EGFR-related lung cancer, Criteria provided single submitter, https://www.ncbi.nlm.nih.gov/clinvar/variation/3625426/, 09/11/2026
+EGFR, 1352648, NM_005228.5(EGFR):c.7C>T (p.Pro3Ser), Uncertain significance, EGFR-related lung cancer, Criteria provided single submitter, https://www.ncbi.nlm.nih.gov/clinvar/variation/1352648/, 09/11/2026
+EGFR, 1024328, NM_005228.5(EGFR):c.7C>G (p.Pro3Ala), Uncertain significance, EGFR-related lung cancer, Criteria provided single submitter, https://www.ncbi.nlm.nih.gov/clinvar/variation/1024328/, 09/11/2026
