@@ -24,14 +24,20 @@ Se seleccionaron cinco variantes documentadas en ClinVar.
 | NM_004985.5(KRAS):c.519T>C (p.Asp173=) | [41449](https://www.ncbi.nlm.nih.gov/clinvar/variation/41449/) | Benign | Germinal |
 
 ## 4. Observaciones
-Describir brevemente las características de las variantes seleccionadas, sin asumir que todas son causantes de enfermedad.
+- Las cuatro primeras variantes son cambios de sentido erróneo (*missense*) en el **codón 12**, situado en el bucle P (*P-loop*, aminoácidos 10–17) que coordina los fosfatos del GTP. La sustitución de la glicina 12 impide la hidrólisis eficiente del GTP y mantiene la proteína en estado activo.
+- Dos nucleótidos distintos generan este grupo: los cambios en la posición c.34 producen Cys y Ser, y los de la posición c.35 producen Asp y Val.
+- **p.Gly12Asp (G12D)** y **p.Gly12Val (G12V)** son las sustituciones más frecuentes en tumores de páncreas, colon y pulmón.
+- **p.Gly12Cys (G12C)** es característica del adenocarcinoma de pulmón en fumadores y es la única del grupo con inhibidores dirigidos aprobados. ClinVar la clasifica como *likely pathogenic* en línea germinal, pero con impacto clínico somático de Tier I (fuerte) en varios tipos tumorales.
+- **p.Gly12Ser (G12S)** es menos frecuente y se ha descrito también en contextos de RASopatía.
+- **p.Asp173= (c.519T>C)** es una variante sinónima: no cambia el aminoácido. Es frecuente en la población general (alrededor del 20% de frecuencia alélica) y el panel de expertos de ClinGen en RASopatías la clasifica como benigna. Se incluyó como contraste, para mostrar que no todas las variantes registradas en ClinVar causan enfermedad: estar en ClinVar significa estar documentada, no ser patogénica.
+- Varias de las variantes del codón 12 aparecen además en anomalías vasculares y lesiones cutáneas en forma de **mosaicismo somático**, es decir, presentes solo en una parte de los tejidos del individuo.
+- **Limitaciones:** estas cinco variantes se eligieron con fines ilustrativos y las patogénicas se concentran en un único codón, de modo que no representan el espectro completo de variantes de KRAS registradas en ClinVar ni permiten inferir riesgo clínico individual. Las clasificaciones de ClinVar pueden cambiar con el tiempo, por lo que se indica la fecha de consulta. Conviene distinguir entre la clasificación germinal (ACMG/AMP) y las clasificaciones somáticas de oncogenicidad e impacto clínico, que son independientes.
 
 ## 5. Referencias
 - NCBI ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/
-  
 - Otras fuentes consultadas:
-  NCBI Gene – KRAS (Gene ID 3845): https://www.ncbi.nlm.nih.gov/gene/3845
-  Hunter J.C. et al. (2015). Biochemical and structural analysis of common cancer-associated KRAS mutations. Molecular Cancer Research, 13(9), 1325–1335.
-  Prior I.A., Hood F.E., Hartley J.L. (2020). The frequency of Ras mutations in cancer. Cancer Research, 80(14), 2969–2974.
-  
+  - NCBI Gene – KRAS (Gene ID 3845): https://www.ncbi.nlm.nih.gov/gene/3845
+  - ClinGen Evidence Repository (RASopathy VCEP): https://erepo.clinicalgenome.org/
+  - Hunter J.C. et al. (2015). Biochemical and structural analysis of common cancer-associated KRAS mutations. *Molecular Cancer Research*, 13(9), 1325–1335.
+  - Prior I.A., Hood F.E., Hartley J.L. (2020). The frequency of Ras mutations in cancer. *Cancer Research*, 80(14), 2969–2974.
 - Fecha de consulta: 09/11/2026
