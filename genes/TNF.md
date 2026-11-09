@@ -11,15 +11,13 @@ TNF está implicado en diversas enfermedades, especialmente aquellas relacionada
 ## 3. Variantes genéticas seleccionadas
 Se seleccionaron cinco variantes documentadas en ClinVar.
 
-
-| Variante (HGVS) | ClinVar ID | Clasificación clínica |
-|---|---|---|
-| NM_000594.4(TNF):c.350T>C | 2480132 | Uncertain significance |
-| NM_000594.4(TNF):c.196G>A | 4597304 | Uncertain significance |
-| NM_000594.4(TNF):c.87G>T | 784495 | Benign |
-| NM_000594.4(TNF):c.251C>T | 781865 | Benign/Likely benign |
-| NM_000594.4(TNF):c.17T>A | 1697317 | Uncertain significance |
-
+| Variante (HGVS) | ClinVar ID | Clasificación clínica | Tipo de clasificación |
+|---|---|---|---|
+| NM_000594.4(TNF):c.350T>C | 2480132 | Uncertain significance | Germline |
+| NM_000594.4(TNF):c.196G>A | 4597304 | Uncertain significance | Germline |
+| NM_000594.4(TNF):c.87G>T | 784495 | Benign | Germline |
+| NM_000594.4(TNF):c.251C>T | 781865 | Benign/Likely benign | Germline |
+| NM_000594.4(TNF):c.17T>A | 1697317 | Uncertain significance | Germline |
 
 ## 4. Observaciones
 Las cinco variantes seleccionadas del gen TNF presentan diferentes clasificaciones clínicas según ClinVar. Tres están clasificadas como de significado incierto (Uncertain significance), una como benigna (Benign) y otra como benigna/probablemente benigna (Benign/Likely benign).
