@@ -1,4 +1,4 @@
-# Nombre del gen
+# KRAS
 
 ## 1. Información general
 - Símbolo del gen: KRAS
