@@ -13,12 +13,11 @@ Se seleccionaron cinco variantes documentadas en ClinVar.
 
 | Variante (HGVS) | ClinVar ID | Clasificación clínica | Tipo de clasificación |
 |---|---|---|---|
-| NM_005228.5(EGFR):c.-2C>T | 5035826| Uncertain significance | Germline |
-| NM_005228.5(EGFR):c.5G>T (p.Arg2Leu) | 3649660 | Uncertain significance | Germline |
-| NM_005228.5(EGFR):c.5G>C (p.Arg2Pro) | 3625426 | Uncertain significance | Germline |
-| NM_005228.5(EGFR):c.7C>T (p.Pro3Ser) | 1352648 | Uncertain significance | Germline |
-| NM_005228.5(EGFR):c.7C>G (p.Pro3Ala) | 1024328 | Uncertain significance | Germline |
-
+| NM_005228.5(EGFR):c.-2C>T | [5035826](https://www.ncbi.nlm.nih.gov/clinvar/variation/5035826/) | Uncertain significance | Germline |
+| NM_005228.5(EGFR):c.5G>T (p.Arg2Leu) | [3649660](https://www.ncbi.nlm.nih.gov/clinvar/variation/3649660/) | Uncertain significance | Germline |
+| NM_005228.5(EGFR):c.5G>C (p.Arg2Pro) | [3625426](https://www.ncbi.nlm.nih.gov/clinvar/variation/3625426/) | Uncertain significance | Germline |
+| NM_005228.5(EGFR):c.7C>T (p.Pro3Ser) | [1352648](https://www.ncbi.nlm.nih.gov/clinvar/variation/1352648/) | Uncertain significance | Germline |
+| NM_005228.5(EGFR):c.7C>G (p.Pro3Ala) | [1024328](https://www.ncbi.nlm.nih.gov/clinvar/variation/1024328/) | Uncertain significance | Germline |
 
 ## 4. Observaciones
 - NM_005228.5(EGFR):c.-2C>T: Variante germinal en la región no traducida 5' UTR ligada a predisposición hereditaria al cáncer. Es de significado incierto por falta de evidencia clínica concluyente.
