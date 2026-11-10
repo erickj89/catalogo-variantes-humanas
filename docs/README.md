@@ -3,10 +3,10 @@
 
 Esta carpeta contiene la documentación general del catálogo colaborativo de variantes genéticas humanas.
 
-## Archivos previstos
+## Documentos
 
-- metodologia.md: criterios utilizados para seleccionar y documentar las variantes de ClinVar.
-- conclusiones.md: resumen de los resultados y observaciones del proyecto.
-- colaboradores.md: integrantes del equipo y sus respectivas contribuciones.
+- [Metodología](metodologia.md): criterios de selección y documentación de variantes de ClinVar, organización de los datos y procedimiento de trabajo colaborativo.
+- [Conclusiones](conclusiones.md): principales resultados, observaciones y limitaciones del proyecto.
+- [Colaboradores](colaboradores.md): integrantes del equipo y sus respectivas contribuciones.
 
-La documentación se completará progresivamente mediante ramas de trabajo y pull requests.
+La documentación recoge el proceso de elaboración del catálogo y los resultados obtenidos mediante el trabajo colaborativo en GitHub.
