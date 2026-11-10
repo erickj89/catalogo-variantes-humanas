@@ -15,13 +15,13 @@ Estudios recientes sobre el cáncer de ovario también han demostrado que el est
 ## 3. Variantes genéticas seleccionadas
 Se seleccionaron cinco variantes documentadas en ClinVar.
 
-| Variante (HGVS) | ClinVar ID | Clasificación clínica | Review Status |
+| Variante (HGVS) | ClinVar ID | Clasificación clínica | Tipo de clasificación |
 |---|---|---|---|
-| NM_007294.4(BRCA1):c.5564del (p.Ile1855fs) | 496397 | Uncertain significance | Review by expert panel
-| NM_007294.4(BRCA1):c.5522G>C (p.Ser1841Thr) | 423044  | Uncertain significance | Review by expert panel
-| NM_007294.4(BRCA1):c.5561T>C (p.Leu1854Pro) | 55631 | Likely pathogenic | Review by expert panel
-| NM_007294.4(BRCA1):c.5512del (p.Val1838fs) | 55610  | Pathogenic | Review by expert panel
-| NM_007294.4(BRCA1):c.5503dup (p.Arg1835fs) | 266558 | Pathogenic | Review by expert panel
+| NM_007294.4(BRCA1):c.5564del (p.Ile1855fs) | [496397](https://www.ncbi.nlm.nih.gov/clinvar/variation/496397/?term=496397%5BVariation+ID%5D) | Uncertain significance | Germinal
+| NM_007294.4(BRCA1):c.5522G>C (p.Ser1841Thr) | [423044](https://www.ncbi.nlm.nih.gov/clinvar/variation/423044/?term=423044%5BVariation+ID%5D)  | Uncertain significance | Germinal
+| NM_007294.4(BRCA1):c.5561T>C (p.Leu1854Pro) | [55631](https://www.ncbi.nlm.nih.gov/clinvar/variation/55631/?term=55631%5BVariation+ID%5D) | Likely pathogenic | Germinal
+| NM_007294.4(BRCA1):c.5512del (p.Val1838fs) | [55610](https://www.ncbi.nlm.nih.gov/clinvar/variation/55610/?term=55610%5BVariation+ID%5D)  | Pathogenic | Germinal
+| NM_007294.4(BRCA1):c.5503dup (p.Arg1835fs) | [266558](https://www.ncbi.nlm.nih.gov/clinvar/variation/266558/?term=266558%5BVariation+ID%5D) | Pathogenic | Germinal
 
 
 ## 4. Observaciones
