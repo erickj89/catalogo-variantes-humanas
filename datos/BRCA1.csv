@@ -1,0 +1,7 @@
+
+Gen,Variante_HGVS,ClinVar_ID,Clasificacion_clinica,Estado_revision,Condicion_asociada
+BRCA1,NM_007294.4(BRCA1):c.5564del (p.Ile1855fs),496397,Uncertain significance,reviewed by expert panel,BRCA1-related cancer predisposition
+BRCA1,NM_007294.4(BRCA1):c.5522G>C (p.Ser1841Thr),423044,Uncertain significance,reviewed by expert panel,BRCA1-related cancer predisposition
+BRCA1,NM_007294.4(BRCA1):c.5561T>C (p.Leu1854Pro),55631,Likely pathogenic,reviewed by expert panel,BRCA1-related cancer predisposition
+BRCA1,NM_007294.4(BRCA1):c.5512del (p.Val1838fs),55610,Pathogenic,reviewed by expert panel,Breast-ovarian cancer familial susceptibility to 1
+BRCA1,NM_007294.4(BRCA1):c.5503dup (p.Arg1835fs),266558,Pathogenic,reviewed by expert panel,Breast-ovarian cancer familial susceptibility to 1
