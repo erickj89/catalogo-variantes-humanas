@@ -1,0 +1,6 @@
+Gen,Variante_HGVS,ClinVar_ID,Clasificacion_clinica,Estado_revision,Condicion_asociada
+TP53,NM_000546.6(TP53):c.1040C>A (p.Ala347Asp),43587,Pathogenic,"criteria provided, reviewed by expert panel",Li-Fraumeni syndrome
+TP53,NM_000546.6(TP53):c.589G>A (p.Val197Met),188060, Likely Pathogenic,"criteria provided, reviewed by expert panel",Li-Fraumeni syndrome
+TP53,NM_000546.6(TP53):c.*1175A>C,35555,Benign,"criteria provided, reviewed by expert panel",Li-Fraumeni syndrome
+TP53,NM_000546.6(TP53):c.*772del,325628,Benign,"criteria provided, reviewed by expert panel",Li-Fraumeni syndrome
+TP53,NM_000546.6(TP53):c.1133C>A (p.Ser378Tyr),3068296,Uncertain significance,"criteria provided, single submitter","Adenocortical carcinoma, hereditary"
