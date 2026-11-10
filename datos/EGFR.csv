@@ -1,0 +1,6 @@
+Gen,Variante_HGVS,ClinVar_ID,Clasificacion_clinica,Estado_revision,Condicion_asociada
+EGFR,NM_005228.5(EGFR):c.-2C>T,5035826,Uncertain significance,"criteria provided, single submitter",Hereditary cancer-predisposing syndrome
+EGFR,NM_005228.5(EGFR):c.5G>T(p.Arg2Leu),3649660,Uncertain significance,"criteria provided, single submitter",EGFR-related lung cancer
+EGFR,NM_005228.5(EGFR):c.5G>C(p.Arg2Pro),3625426,Uncertain significance,"criteria provided, single submitter",EGFR-related lung cancer
+EGFR,NM_005228.5(EGFR):c.7C>T(p.Pro3Ser),1352648,Uncertain significance,"criteria provided, single submitter",EGFR-related lung cancer
+EGFR,NM_005228.5(EGFR):c.7C>G(p.Pro3Ala),1024328,Uncertain significance,"criteria provided, single submitter",EGFR-related lung cance
