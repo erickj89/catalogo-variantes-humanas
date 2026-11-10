@@ -1,0 +1,9 @@
+
+Gen,Variante_HGVS,ClinVar_ID,Clasificacion_clinica,Estado_revision,Condicion_asociada
+TNF,NM_000594.4(TNF):c.350T>C,2480132,Uncertain significance,"criteria provided, single submitter",not specified
+TNF,NM_000594.4(TNF):c.196G>A,4597304,Uncertain significance,"criteria provided, single submitter",not specified
+TNF,NM_000594.4(TNF):c.87G>T,784495,Benign,"criteria provided, single submitter",not provided
+TNF,NM_000594.4(TNF):c.251C>T,781865,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not provided
+TNF,NM_000594.4(TNF):c.17T>A,1697317,Uncertain significance,"criteria provided, single submitter","Migraine with or without aura, susceptibility to, 1"
+
+
