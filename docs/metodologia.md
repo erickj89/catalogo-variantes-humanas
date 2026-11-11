@@ -16,7 +16,7 @@ Los resultados se organizaron en archivos CSV dentro de la carpeta `datos/`. Par
 
 Se utilizó GitHub para organizar el repositorio y gestionar las contribuciones individuales.
 
-Los integrantes trabajaron mediante ramas, registraron sus cambios con commits y utilizaron pull requests para proponer la incorporación de sus aportes a la rama principal (`main`).
+Los integrantes trabajaron mediante ramas, registraron sus cambios con commits y utilizaron pull requests para proponer la incorporación de sus aportes a la rama principal (`main`), requiriendo la revisión y aprobación de al menos un compañero del grupo antes de su integración definitiva en el repositorio. 
 
 ## 4. Alcance y limitaciones
 
