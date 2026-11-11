@@ -19,13 +19,13 @@ El objetivo principal fue aplicar herramientas de control de versiones y colabor
 
 Se seleccionaron cinco genes humanos:
 
-| Gen | Descripción general |
-|---|---|
-| KRAS | Participa en la señalización celular y la regulación del crecimiento y proliferación celular. |
-| EGFR | Codifica un receptor implicado en la señalización, proliferación y supervivencia celular. |
-| TP53 | Codifica una proteína supresora tumoral implicada en la respuesta al daño del ADN. |
-| BRCA1 | Participa en la reparación del ADN y el mantenimiento de la estabilidad genómica. |
-| TNF | Codifica una citocina relacionada con la inflamación y la regulación de procesos inmunitarios. |
+| Gen | Descripción general | Integrante |
+|---|---|---|
+| KRAS | Participa en la señalización celular y la regulación del crecimiento y proliferación celular. | Enric Ariza Ortiz |
+| EGFR | Codifica un receptor implicado en la señalización, proliferación y supervivencia celular. | Iria Olvido Moya Lopez |
+| TP53 | Codifica una proteína supresora tumoral implicada en la respuesta al daño del ADN. | Ivan Crespo Morcillo |
+| BRCA1 | Participa en la reparación del ADN y el mantenimiento de la estabilidad genómica. | Ivan Monge Lobo |
+| TNF | Codifica una citocina relacionada con la inflamación y la regulación de procesos inmunitarios. | Erick Javier Fernandez Arguello |
 
 Se documentaron cinco variantes por gen, para un total de 25 variantes genéticas.
 
