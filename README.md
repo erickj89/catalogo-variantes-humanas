@@ -8,7 +8,7 @@ Proyecto académico colaborativo desarrollado por cinco integrantes para documen
 El objetivo principal fue aplicar herramientas de control de versiones y colaboración mediante Git y GitHub, integrando conocimientos básicos de genética clínica y documentación de datos biomédicos.
 
 <p align="center">
-  <img src="./docs/overview.svg" alt="Resumen gráfico del proyecto" width="600">
+  <img src="./docs/overview.svg" alt="Resumen gráfico del proyecto" width="900">
 </p>
 
 ## Objetivos
