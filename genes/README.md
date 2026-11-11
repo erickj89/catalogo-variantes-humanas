@@ -2,9 +2,9 @@
 
 Esta carpeta contiene la documentación de los cinco genes seleccionados para el proyecto.
 
-Cada integrante elaborará un archivo Markdown (.md) correspondiente a su gen.
+Cada integrante elaboró un archivo Markdown (.md) correspondiente a su gen.
 
-Cada documento incluirá:
+Cada documento incluye:
 
 - Nombre y función biológica del gen.
 - Importancia biomédica.
@@ -12,4 +12,4 @@ Cada documento incluirá:
 - Clasificación clínica de las variantes.
 - Referencias bibliográficas y fuentes consultadas.
 
-Los archivos individuales serán incorporados mediante ramas de trabajo y pull requests.
+Los archivos individuales fueron incorporados mediante ramas de trabajo y pull requests.
